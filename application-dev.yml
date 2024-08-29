@@ -1,0 +1,8 @@
+servicefounder.server.port=8761
+serviceconnector.server.port=8765
+filehandler.server.port=8080
+usermanagement.server.port=8081
+cdnservice.server.port=8082
+servicemaintainer.server.port=8083
+clientauthendicator.server.port=8084
+
